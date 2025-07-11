@@ -1,0 +1,13 @@
+{
+    "nome": "Goblin",
+    "tipo": "Inimigo",
+    "nivel": 5,
+    "pontos_ataque": 35,
+    "recompensas": {
+        "ouro": 50,
+        "itens": [
+            "Espada pequena",
+            "Escudo leve"
+        ]
+    }
+}

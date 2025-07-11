@@ -1,0 +1,13 @@
+{
+    "username": "influenciador_123",
+    "seguidores": 15000,
+    "seguindo": 200,
+    "posts": 120,
+    "biografia": "Amo viajar e compartilhar dicas de lifestyle.",
+    "posts_lista": [
+        {
+            "data": "2025-07-11",
+            "likes": 500
+        }
+    ]
+}

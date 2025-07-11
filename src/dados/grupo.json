@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Arya Stark",
+        "nivel": 16,
+        "hp": 320,
+        "habilidades": [
+            "Agilidade",
+            "Furtividade",
+            "Disfarces"
+        ]
+    },
+    {
+        "nome": "Jon Snow",
+        "nivel": 20,
+        "hp": 400,
+        "habilidades": [
+            "Espada",
+            "Liderança",
+            "Resistência"
+        ]
+    }
+]
